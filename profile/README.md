@@ -11,5 +11,7 @@
 - [talk](https://github.com/theharmonylab/talk)
 
 # Models
-- [WhiSPA]()
+- [WhiSPA](https://github.com/humanlab/WhiSPA)
 - [The Language-based assessment model (L_BAM Library)](https://r-text.org/articles/LBAM.html)
+
+
