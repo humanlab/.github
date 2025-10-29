@@ -1,5 +1,3 @@
-## ⭐ Top repos
-
 # Organisation
 - [WWBP](https://www.wwbp.org/)
 - [The Harmony research group](https://github.com/theharmonylab)
