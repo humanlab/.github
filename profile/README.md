@@ -10,6 +10,8 @@
 - [topics](https://github.com/theharmonylab/topics) - `topics` visualizes language patterns into words, phrases or topics to generate psychological insights.
 The topics package supports the `text` package in analysing and visualizing `topics` from BERTtopics.
 
+- [talk](https://github.com/theharmonylab/talk) - `talk` transforms voice recordings into text, audio features, or embeddings.
+
 # Models
 - [WhiSPA](https://github.com/humanlab/WhiSPA)
 - [The Language-based assessment model (L_BAM Library)](https://r-text.org/articles/LBAM.html)
