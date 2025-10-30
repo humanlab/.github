@@ -1,5 +1,5 @@
 # Organisation
-- [WWBP](https://www.wwbp.org/)
+- [HLAB](https://github.com/humanlab)
 - [The Harmony research group](https://github.com/theharmonylab)
 
 # Software
