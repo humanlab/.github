@@ -14,6 +14,7 @@ The topics package supports the `text` package in analysing and visualizing `top
 
 # Models
 - [WhiSPA](https://github.com/humanlab/WhiSPA)
+- [County Tweet Lexical Bank](https://github.com/wwbp/county_tweet_lexical_bank)
 - [The Language-based assessment model (L_BAM Library)](https://r-text.org/articles/LBAM.html)
 
 
